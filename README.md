@@ -1,4 +1,4 @@
-# JavaWorldCup
+<img width="439" alt="image" src="https://github.com/gesal03/JavaWorldCup/assets/77336664/fd398975-f28c-4d18-a610-9fb79948de17"># JavaWorldCup
 ⚽️ '22 객체지향언어2(Java) Mini Project - JavaWorldCup
 
 ## 설명
@@ -19,19 +19,19 @@
 ### 시작 화면
 
 #### 메인 화면
-메인 화면에서 게임 시작, 난이도 조절, 단어 추가, 랭킹, 배경음악(On/Off)가 가능하다.
+메인 화면에서 게임 시작, 난이도 조절, 단어 추가, 랭킹, 배경음악(On/Off)가 가능하다.<br>
 <img width="361" alt="image" src="https://github.com/gesal03/JavaWorldCup/assets/77336664/9e3a1132-aab8-4514-b5ab-f67dfdc3bb02">
 
 #### 난이도 조절
-난이도 설정 버튼을 클릭하게 되면 난이도를 선택할 수 있는 창이 뜬다. Easy, Normal, Hard 중 하나를 선택할 수 있다.
+난이도 설정 버튼을 클릭하게 되면 난이도를 선택할 수 있는 창이 뜬다. Easy, Normal, Hard 중 하나를 선택할 수 있다.<br>
 <img width="359" alt="image" src="https://github.com/gesal03/JavaWorldCup/assets/77336664/8069ada8-34db-476d-9577-80a434e1d703">
 
 #### 단어 추가
-단어 추가 버튼을 클릭하게 된다면 단어를 입력할 수 있는 창이 뜬다. 이 창에서 단어를 추가할 수 있다.
+단어 추가 버튼을 클릭하게 된다면 단어를 입력할 수 있는 창이 뜬다. 이 창에서 단어를 추가할 수 있다.<br>
 <img width="238" alt="image" src="https://github.com/gesal03/JavaWorldCup/assets/77336664/3b22df0d-f9cd-4fd4-8f71-f601631d89ec">
 
 #### 랭킹
-랭킹 추가 버튼을 클릭하게 된다면 누적 랭킹을 볼 수 있다. 난이도(Easy,Normal,Hard) 별로 우승자 중 골 수가 높은 Top 5가 출력된다.
+랭킹 추가 버튼을 클릭하게 된다면 누적 랭킹을 볼 수 있다. 난이도(Easy,Normal,Hard) 별로 우승자 중 골 수가 높은 Top 5가 출력된다.<br>
 <img width="298" alt="image" src="https://github.com/gesal03/JavaWorldCup/assets/77336664/4364d925-95ef-43ba-af73-f339a8ce0da8">
 
 ### 게임 진행 화면
