@@ -1,4 +1,4 @@
-# JavaWorldCup
+<img width="240" alt="image" src="https://github.com/gesal03/JavaWorldCup/assets/77336664/2ad2ec5d-82ae-4f6b-aafd-635483368afa"># JavaWorldCup
 ⚽️ '22 객체지향언어2(Java) Mini Project - JavaWorldCup
 
 ## 설명
@@ -35,6 +35,8 @@
 #### 랭킹
 랭킹 추가 버튼을 클릭하게 된다면 누적 랭킹을 볼 수 있다. 난이도(Easy,Normal,Hard) 별로 우승자 중 골 수가 높은 Top 5가 출력된다.<br>
 <img width="298" alt="image" src="https://github.com/gesal03/JavaWorldCup/assets/77336664/4364d925-95ef-43ba-af73-f339a8ce0da8">
+<img width="238" alt="image" src="https://github.com/gesal03/JavaWorldCup/assets/77336664/9aecb10d-c953-47e9-a31b-e627947b47ef">
+<img width="240" alt="image" src="https://github.com/gesal03/JavaWorldCup/assets/77336664/293697b8-119f-4b14-9d8a-75894d5b32fa">
 
 ### 게임 진행 화면
 #### 8강전
