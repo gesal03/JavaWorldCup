@@ -60,7 +60,30 @@ Audio 버튼: 배경음악을 재생할 수 있다.<br>
 <img width="450" alt="image" src="https://github.com/gesal03/JavaWorldCup/assets/77336664/8b9b8f8d-0527-4f6a-9172-759ac33735cc">
 <img width="454" alt="image" src="https://github.com/gesal03/JavaWorldCup/assets/77336664/b4f2b3ee-0207-401e-a127-ccf333b47e0d">
 
+위와 같은 방법으로 게임을 진행하며 골을 넣어, 90분이 되었을 때, 내 골 수가 상대 골 수보다 많으면 경기에서 승리하게 된다.<br>
+매 Stage 승리하게 되면 본 화면으로 전환된다.<br>
+<img width="428" alt="image" src="https://github.com/gesal03/JavaWorldCup/assets/77336664/bb09d050-1b2f-4527-a2c4-b347052c6c44">
 
 #### 4강전
+4강전은 배경 이미지와 배경음악이 변경된다. 또한, 슛 게이지 차는 속도가 낮아지고, 상대 골 넣을 확률이 증가한다.<br>
+<img width="421" alt="image" src="https://github.com/gesal03/JavaWorldCup/assets/77336664/afef118d-23d1-4f1f-9678-aad6a6ffe002">
+<img width="465" alt="image" src="https://github.com/gesal03/JavaWorldCup/assets/77336664/55e2dfd4-f54b-4fdf-b95b-7840802bda26">
+
 #### 결승
+결승전 또한 배경음악과 배경이미지가 변경되고, 슛 게이지 차는 속도 하강, 상대 골 넣을 확률이 증가된다.<br>
+<img width="431" alt="image" src="https://github.com/gesal03/JavaWorldCup/assets/77336664/c88809de-1403-4a9c-a235-7c21be734fc7">
+<img width="454" alt="image" src="https://github.com/gesal03/JavaWorldCup/assets/77336664/b5d2df73-b941-4430-bc1a-12a9d491ee6f">
+
+경기에서 승리하게 되면 이름을 입력하여 랭킹에 기록할 수 있다. 랭킹 기록 기준은 한 게임 동안 넣은 골 수이다.<br>
+<img width="393" alt="image" src="https://github.com/gesal03/JavaWorldCup/assets/77336664/7881def9-eb5d-4fe5-864c-4466db56bcb8">
+
 #### 패배 시
+게임이 종료되었을 때, 상대 골 수 보다 내 골 수가 적으면 2번째 화면으로 전환된다. 그 후 랭킹 프레임으로 전환된다.<br>
+<img width="438" alt="image" src="https://github.com/gesal03/JavaWorldCup/assets/77336664/97b2577c-a135-4a42-aaf3-f119a98582d7">
+<img width="436" alt="image" src="https://github.com/gesal03/JavaWorldCup/assets/77336664/dff381e2-3456-4f3b-8ee7-fcb059eb355e">
+
+### 느낀점
+미니 프로젝트를 진행하면서 프레임 전환부터, 게임 전반적인 스레드 관리 등 다양한 어려움에 직면했지만, 책을 꼼꼼히 읽고, 프로그램 설계를 통해 해결할 수 있었다. <br>
+이번 프로젝트를 통해 응용프로그램 개발에 큰 흥미를 느끼게 되었고, 방 중 Java를 통한 프로젝트를 해보고 싶은 생각이 들었다. 또한 Java에 대한 깊이 있는 공부가 필요함을 느꼈다.
+
+
