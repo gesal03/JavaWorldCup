@@ -29,6 +29,8 @@
 #### 단어 추가
 단어 추가 버튼을 클릭하게 된다면 단어를 입력할 수 있는 창이 뜬다. 이 창에서 단어를 추가할 수 있다.<br>
 <img width="238" alt="image" src="https://github.com/gesal03/JavaWorldCup/assets/77336664/3b22df0d-f9cd-4fd4-8f71-f601631d89ec">
+<img width="237" alt="image" src="https://github.com/gesal03/JavaWorldCup/assets/77336664/9314ebe8-518f-4ef3-9c5b-e47db4c29bfb">
+
 
 #### 랭킹
 랭킹 추가 버튼을 클릭하게 된다면 누적 랭킹을 볼 수 있다. 난이도(Easy,Normal,Hard) 별로 우승자 중 골 수가 높은 Top 5가 출력된다.<br>
