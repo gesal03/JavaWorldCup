@@ -1,4 +1,4 @@
-<img width="439" alt="image" src="https://github.com/gesal03/JavaWorldCup/assets/77336664/fd398975-f28c-4d18-a610-9fb79948de17"># JavaWorldCup
+# JavaWorldCup
 ⚽️ '22 객체지향언어2(Java) Mini Project - JavaWorldCup
 
 ## 설명
