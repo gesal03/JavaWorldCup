@@ -52,7 +52,9 @@ Audio 버튼: 배경음악을 재생할 수 있다.<br>
 점수가 증가할 때마다 손흥민 선수가 골대를 향해 움직이고 있다.<br>
 <img width="439" alt="image" src="https://github.com/gesal03/JavaWorldCup/assets/77336664/4aef94dc-cc94-47cc-ae27-c0829acb7dcb">
 
-
+스페이스 바를 연타하여 슛 게이지를 채울 수 있다. 슛 게이지가 끝에 도달하면 Goal이라는 메세지와 함께 나의 골 수가 1 증가한다.<br>
+<img width="450" alt="image" src="https://github.com/gesal03/JavaWorldCup/assets/77336664/8b9b8f8d-0527-4f6a-9172-759ac33735cc">
+<img width="454" alt="image" src="https://github.com/gesal03/JavaWorldCup/assets/77336664/b4f2b3ee-0207-401e-a127-ccf333b47e0d">
 
 
 #### 4강전
